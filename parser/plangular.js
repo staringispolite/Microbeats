@@ -11,7 +11,7 @@
 'use strict';
 
 // var plangular = angular.module('plangular', []);
-var clientID = '0d33361983f16d2527b01fbf6408b7d7';
+var clientID = '3e0c399526c8cd0becc839006a85e14d';
 SC.initialize({ client_id: clientID });
 
 app.directive('plangular', function ($document, $rootScope) {
