@@ -28,5 +28,20 @@
   "stream_url": "https://api.soundcloud.com/tracks/239709392/stream",
   "download_url": "http://api.soundcloud.com/tracks/239709392/download",
   "attachments_uri": "http://api.soundcloud.com/tracks/239709392/attachments"
+},
+{
+  "kind": "track",
+  "id": 196611926,
+  "created_at": "2015/03/19 07:17:15 +0000",
+  "permalink": "Instrumental",
+  "title": "Instrumental",
+  "description": "",
+  "uri": "https://api.soundcloud.com/tracks/196611926",
+  "permalink_url": "http://soundcloud.com/staringispolite/instrumental",
+  "artwork_url": null,
+  "waveform_url": "http://w1.sndcdn.com/QfM5IBisBPo5_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/196611926/stream",
+  "download_url": "http://api.soundcloud.com/tracks/196611926/download",
+  "attachments_uri": "http://api.soundcloud.com/tracks/196611926/attachments"
 }
 ]
